@@ -9,3 +9,7 @@ end
 def first_element
   return array.first
 end
+
+def last_element
+  return array.last
+end
